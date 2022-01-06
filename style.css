@@ -3,7 +3,9 @@ body{
     padding-right: 90px;
 }
 
-
+h1{
+    font-size: 40px;
+}
 
 .frist-section {
     display: flex;
@@ -24,10 +26,9 @@ body{
 
 .frist-heading{
     border-left: 4px solid teal;
-    font-size: 40px;
+    
+    
 }
-
-
 
 .button{
     text-decoration: none;
@@ -38,7 +39,7 @@ body{
 }
 #second-heading{
     text-align: center;
-    font-size: 40px;
+    
 }
 .seconnd-half-width{
     display:flex;
@@ -75,5 +76,9 @@ div p{
     text-align: justify;
     padding-right: 10px;
 }
-
-
+.text-align{
+    margin-left: 50px;
+}
+#third-text{
+    padding-left: 50px;
+}
